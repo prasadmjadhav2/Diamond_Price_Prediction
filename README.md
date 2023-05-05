@@ -1,2 +1,2 @@
-# Diamond_Price_Prediction
-Diamond Price Prediction
+# Diamond Price Prediction
+Project By Innomatics Research Labs
